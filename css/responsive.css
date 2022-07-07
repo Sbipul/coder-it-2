@@ -1,0 +1,142 @@
+@media all and (max-width:990px){
+.header-area {
+	height: 33px;
+	width: 96%;
+	padding: 7px 20px;
+}
+.icon-area {
+	padding-top: 0px;
+}
+.icon-area ul li a {
+	height: 20px;
+	width: 20px;
+	padding: 5px;
+}
+.icon-area ul li a i {
+	font-size: 18px;
+	padding-left: 2px;
+}
+.menu-area ul {
+	padding: 10px 20px;
+}
+.menu-area ul li a {
+	font-size: 16px;
+}
+.second-area {
+	width: 96%;
+}
+.s-container {
+	padding: 32px 0px 162px 0px;
+}
+.Imaginate h1 {
+	font-size: 26px;
+}
+.Imaginate h2 {
+	font-size: 15px;
+}
+.search-area input.searchn {
+	width: 120px;
+	border: none;
+	padding: 7px 9px;
+}
+.search-area input.searchn:focus {
+	width: 220px;
+}
+.search-area a button {
+	padding: 7px 7px;
+	border: none;
+}
+.container-area {
+	width: 100%;
+}
+.container {
+	width: 96%;
+}
+.header-menu ul li a {
+	padding: 10px 0px;
+	border: 1px solid #d2d2d2;
+	font-size: 12px;
+}
+.image {
+	width: 100%;
+	border: 0px solid #a6a6a6;
+}
+.image img {
+	width: 100%;
+	height: 80%;
+}
+.dot {
+	left: -17%;
+	top: -15%;
+}
+.d {
+    height: 12px;
+    width: 12px;
+}
+.o {
+    height: 12px;
+    width: 12px;
+}
+.t {
+    height: 10px;
+    width: 10px;
+}
+.pre {
+    height: 5px;
+    width: 295px;
+    top: 16px;
+}
+.title h1 {
+	font-size: 25px;
+	padding-top: 0px;
+}
+.post {
+    height: 5px;
+    width: 295px;
+    top: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media all and (max-width:767px){
+	
+}
+
+
+@media all and (max-width: 320px){
+	
+}
+
+
+
+
+
